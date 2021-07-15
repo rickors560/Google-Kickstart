@@ -1,0 +1,16 @@
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/bin/Debug/net5.0/ArithmeticSquare
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/bin/Debug/net5.0/ArithmeticSquare.deps.json
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/bin/Debug/net5.0/ArithmeticSquare.runtimeconfig.json
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/bin/Debug/net5.0/ArithmeticSquare.runtimeconfig.dev.json
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/bin/Debug/net5.0/ArithmeticSquare.dll
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/bin/Debug/net5.0/ref/ArithmeticSquare.dll
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/bin/Debug/net5.0/ArithmeticSquare.pdb
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/Debug/net5.0/ArithmeticSquare.csproj.AssemblyReference.cache
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/Debug/net5.0/ArithmeticSquare.GeneratedMSBuildEditorConfig.editorconfig
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/Debug/net5.0/ArithmeticSquare.AssemblyInfoInputs.cache
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/Debug/net5.0/ArithmeticSquare.AssemblyInfo.cs
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/Debug/net5.0/ArithmeticSquare.csproj.CoreCompileInputs.cache
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/Debug/net5.0/ArithmeticSquare.dll
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/Debug/net5.0/ref/ArithmeticSquare.dll
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/Debug/net5.0/ArithmeticSquare.pdb
+/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/Debug/net5.0/ArithmeticSquare.genruntimeconfig.cache
