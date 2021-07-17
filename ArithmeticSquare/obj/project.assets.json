@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/ArithmeticSquare.csproj",
+      "projectUniqueName": "/home/alfa/Desktop/Code/Google-Kickstart/ArithmeticSquare/ArithmeticSquare.csproj",
       "projectName": "ArithmeticSquare",
-      "projectPath": "/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/ArithmeticSquare.csproj",
+      "projectPath": "/home/alfa/Desktop/Code/Google-Kickstart/ArithmeticSquare/ArithmeticSquare.csproj",
       "packagesPath": "/home/alfa/.nuget/packages/",
-      "outputPath": "/home/alfa/Desktop/Code/GoogleKickStart/Round-D/ArithmeticSquare/obj/",
+      "outputPath": "/home/alfa/Desktop/Code/Google-Kickstart/ArithmeticSquare/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alfa/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

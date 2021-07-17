@@ -96,7 +96,6 @@ namespace ArithmeticSquare
             {
                 res++;
             }
-
             return res;
         }
     }
