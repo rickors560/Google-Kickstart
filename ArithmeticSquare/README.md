@@ -57,3 +57,6 @@ In Sample Case #2, if we set the missing number to be 4, we have exactly 3 arith
 - left column: [4,3,2]Setting the missing number to any other integer results in fewer progressions, so we output 3.
 
 In Sample Case #3, if we set the missing number to be 9, we have all possible arithmetic progressions. There are 8 total progressions (each one is [9,9,9]), so we output 8.
+
+## Problem Link
+	https://codingcompetitions.withgoogle.com/kickstart/round/00000000004361e3/000000000082b813
