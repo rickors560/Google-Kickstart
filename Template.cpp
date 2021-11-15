@@ -23,7 +23,7 @@ int main()
     long t;
     cout << "Start" << endl;
     cin >> t;
-    for (long i = 0; i < t; i++)
+    for (long T = 0; T < t; T++)
     {
         cout << "Hello" << endl;
     }
