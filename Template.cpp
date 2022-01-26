@@ -13,12 +13,13 @@ using namespace std;
 
 #define ll long long
 
+int MODULO = 1000000007; // 10^9 + 7
+
 int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
-    
 
     long t;
     cout << "Start" << endl;
