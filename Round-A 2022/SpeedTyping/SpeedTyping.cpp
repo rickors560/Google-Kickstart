@@ -34,14 +34,11 @@ void solve()
         return;
     }
 
-    stack<char> st;
-
     int t = 0;
     for (int x = 0; x < p.length(); x++)
     {
         if (t < i.length() && p[x] == i[t])
         {
-            st.push(p[x]);
             t++;
         }
     }
