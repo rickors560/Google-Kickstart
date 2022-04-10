@@ -23,7 +23,7 @@
     Memory limit: 1 GB.
     1≤T≤100.
     Both the strings contain letters from a-z and A-Z.
-    Length of the given strings will be 1≤|I|,|P|≤105.
+    Length of the given strings will be 1≤|I|,|P|≤10^5.
 
 ### Test Set 1
 
